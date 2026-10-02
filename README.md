@@ -1,5 +1,7 @@
 # Repro: `dn create -t package` generates Flutter's package template
 
+Issue: https://github.com/DartNative/dartnative/issues/74
+
 This repo is the unmodified output of
 
 ```sh
